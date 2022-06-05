@@ -1,0 +1,6 @@
+{
+    "solidity.defaultCompiler": "localNodeModule",
+    "solidity.remappings": [
+        "@chainlink/=/Users/Admin/.brownie/packages/smartcontractkit/chainlink-brownie-contracts@0.2.1"
+    ]
+}
